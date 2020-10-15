@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1517871022 source:c:\users\phil\desktop\projects\ia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1518362974 source:c:\users\phil\desktop\projects\comp.sci.i.a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1520190480 source:c:\users\phil\desktop\projects\comp.sci.i.a\iaprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1522337972 source:c:\users\phil\desktop\school\computer science\comp.sci.i.a\iaprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573239837 source:c:\users\phil\desktop\school\computer science\unit1\comp.sci.i.a\iaprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
